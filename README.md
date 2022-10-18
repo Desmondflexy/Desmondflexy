@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Desmond Ikilo
 - 👀 I’m a web developer from Nigeria
 - 🌱 I’m currently learning React and Django
+- 😍 My favourite programming language is Python
 - 💞️ I’m looking to becoming a python dev
 - 📫 Send an email to ikilodesmond@gmail.com to reach me
 
