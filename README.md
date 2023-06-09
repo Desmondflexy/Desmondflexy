@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Desmond Ikilo
-- 👀 I’m a web developer from Nigeria
-- 🌱 I’m currently learning React and Django
+- 👀 I’m a software developer from Benin-city, Nigeria
+- 🌱 I’m currently upskilling at Decagon Institute of Software Engineering
+- 📜 I've got a bachelor's degree in Mechanical Engineering
 - 😍 My favourite programming language is Python
-- 💞️ I’m looking to becoming a python dev
+- 💞️ I believe in working smart and not hard
 - 📫 Send an email to ikilodesmond@gmail.com to reach me
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Desmondflexy)](https://github.com/Desmondflexy/github-profile-trophy)
