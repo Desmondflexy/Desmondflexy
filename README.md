@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Desmond Ikilo
 - 👀 I’m a software developer from Benin-city, Nigeria
-- 🌱 I’m currently upskilling at Decagon Institute of Software Engineering
 - 📜 I've got a bachelor's degree in Mechanical Engineering
 - 😍 My favourite programming language is Python
 - 💞️ I believe in working smart and not hard
